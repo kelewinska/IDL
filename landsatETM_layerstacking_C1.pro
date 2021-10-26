@@ -1,6 +1,7 @@
 
 ;+
 ; :Description: script layerstack Landsat ETM or ETM+ bands and masks claouds and clouds shadows based on QA band
+;               Compatible with Landsat Collection 1 data. 
 ;
 ; :Outputs: LTXX_L1TP_PPPRRR_YYYMMDD_layerstackM.bsq  - masked layerstack of bands
 ;           LTXX_L1TP_PPPRRR_YYYMMDD_DataMask.bsq     - binary mask derived based on QA
